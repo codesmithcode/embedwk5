@@ -1,0 +1,3 @@
+[submodule "embedwk5/third_party/reusable"]
+	path = embedwk5/third_party/reusable
+	url = https://github.com/codesmithcode/reusable.git
